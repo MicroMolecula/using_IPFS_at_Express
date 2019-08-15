@@ -1,0 +1,7 @@
+links to use ipfs 
+
+https://medium.com/coinmonks/ipfs-tutorial-sending-and-getting-files-via-nodejs-backend-85c85ae7f6f6
+
+https://blog.ipfs.io/1-run-ipfs-on-docker/
+
+https://medium.com/mvp-workshop/ipfs-publishing-and-ipfs-cluster-cff3a099993a
